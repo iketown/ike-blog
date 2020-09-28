@@ -1,13 +1,6 @@
 {
-  "files.associations": {
-    "*.js": "javascriptreact"
-  },
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact"
-  ],
-  "eslint.autoFixOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "editor.formatOnSave": true
 }
